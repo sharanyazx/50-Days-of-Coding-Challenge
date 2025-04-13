@@ -1,20 +1,29 @@
-  
-Week 1 focuses on **Arrays**, **Strings**, and **Hashing** —fundamentals that form the base of most coding interviews.
+
+## 📚 Week 1 - Arrays, Strings & Hashing
+
+Welcome to Week 1 of my **#50DaysDSAChallenge**!  
+This week focuses on mastering fundamentals in **Arrays, Strings, and Hashing**, covering frequently asked interview questions and custom practice problems.
 
 
 
+### ✅ Topics Covered
 
-| S.No | Problem Title                  | Description                                           |
-|------|--------------------------------|-------------------------------------------------------|
-| 1    | SecondLargestElement           | Find the second largest number in an array           |
-| 2    | IsPalindromeArray              | Check if the array is a palindrome                   |
-| 3    | RemoveDuplicatesString         | Remove duplicate characters from a string            |
-| 4    | ReverseWordsInSentence         | Reverse the word order in a sentence                 |
-| 5    | FrequencyCounter               | Count frequency of elements using HashMap            |
-| 6    | PairsWithGivenSum              | Find all pairs with a specific sum                   |
-| 7    | CheckAnagrams                  | Check if two strings are anagrams                    |
-| 8    | MoveZerosToEnd                 | Shift all zeros to the end of the array              |
-| 9    | FirstNonRepeatingChar         | Find the first non-repeating character in a string   |
-| 10   | CompressString                 | Compress repeating characters                        |
+- Arrays (traversals, patterns, frequency)
+- Strings (manipulation, comparison, compression)
+- Hashing (frequency map, anagram check)
 
+
+
+| #  | Problem Title                     | Description                                      | Sample Input                    | Sample Output     |
+|----|----------------------------------|--------------------------------------------------|----------------------------------|-------------------|
+| 1  | Second Largest Element           | Find the second highest number in an array       | [12, 35, 1, 10, 34, 1]           | 34                |
+| 2  | Palindrome Array Check           | Check if the array is the same forward & back    | [1, 2, 3, 2, 1]                  | true              |
+| 3  | Remove Duplicates in String      | Remove repeating characters from a string        | "programming"                   | "progamin"        |
+| 4  | Reverse Words in Sentence        | Reverse the word order in a sentence             | "I love coding"                 | "coding love I"   |
+| 5  | Count Frequency of Elements      | Count frequency of elements using HashMap        | [1, 2, 2, 3, 3, 3]               | 1→1, 2→2, 3→3      |
+| 6  | Pairs with Given Sum             | Find pairs whose sum equals a target             | [1, 2, 3, 4, 5], sum = 6         | [1,5], [2,4]      |
+| 7  | Anagram Checker                  | Check if two strings are anagrams                | "listen", "silent"              | true              |
+| 8  | Move All Zeros to End            | Shift all zeros to the end, maintain order       | [0, 1, 0, 3, 12]                 | [1, 3, 12, 0, 0]   |
+| 9  | First Non-Repeating Character    | Return the first unique character in string      | "swiss"                         | "w"               |
+| 10 | String Compression               | Compress repeated characters in a string         | "aaabbc"                        | "a3b2c1"           |
 
