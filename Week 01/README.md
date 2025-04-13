@@ -1,11 +1,9 @@
-# 📚 Week 1: Arrays, Strings & Hashing (DSA 50 Days Challenge)
+  
+Week 1 focuses on **Arrays**, **Strings**, and **Hashing** —fundamentals that form the base of most coding interviews.
 
-Welcome to Week 1 of my 50 Days DSA Challenge! 🚀  
-This week focuses on **Arrays**, **Strings**, and **Hashing**—fundamentals that form the base of most coding interviews.
 
----
 
-## 🔢 Custom Problems (Non-Platform Based)
+
 | S.No | Problem Title                  | Description                                           |
 |------|--------------------------------|-------------------------------------------------------|
 | 1    | SecondLargestElement           | Find the second largest number in an array           |
@@ -19,27 +17,4 @@ This week focuses on **Arrays**, **Strings**, and **Hashing**—fundamentals tha
 | 9    | FirstNonRepeatingChar         | Find the first non-repeating character in a string   |
 | 10   | CompressString                 | Compress repeating characters                        |
 
----
 
-## 🌐 Platform-Based Practice
-🔗 Practiced on **LeetCode** and **GeeksForGeeks**:  
-- LeetCode Easy Arrays  
-- GFG HashMap Applications  
-- String manipulation techniques  
-
----
-
-## 🔄 Progress Tracker
-- ✅ Day 1 to Day 5 Completed
-- 🔜 Week 2: Recursion + Sorting
-
----
-
-### 📌 Connect With Me
-- 💼 LinkedIn: [Sharanya Thirumoorthi](https://www.linkedin.com/in/sharanya-thirumoorthi)
-- 💻 GitHub: [@sharanyazx_](https://github.com/sharanyazx_)
-
----
-
-> “Consistency is more important than perfection.”  
-Let’s keep growing every day! 🌱
